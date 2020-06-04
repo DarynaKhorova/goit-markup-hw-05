@@ -336,6 +336,7 @@ img {
 /*Footer*/
 footer {
   background: #2f303a;
+  padding-top: 56px;
 }
 .footer-container {
   display: flex;
@@ -345,8 +346,8 @@ footer {
 .footer-contacts {
   display: flex;
   flex-direction: column;
-  padding-top: 48px;
   align-items: baseline;
+  padding-bottom: 28px;
 }
 .footer-contacts > .logo {
   margin-bottom: 10px;
@@ -374,12 +375,7 @@ footer {
 .footer-address .link-mail {
   margin-bottom: 9px;
 }
-.join-us {
-  margin-top: 56px;
-}
-.newsletter {
-  margin-top: 56px;
-}
+
 .join-us .title {
   display: block;
   margin-bottom: 21px;
